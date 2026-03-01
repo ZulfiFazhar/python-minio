@@ -1,0 +1,9 @@
+[project]
+name = "python-minio"
+version = "0.1.0"
+description = "A simple Python application using MinIO"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "boto3>=1.42.59",
+]
